@@ -125,7 +125,7 @@ namespace Cp_Presentacion
         {
             AddProducts();
             ShowProducts();
-            MessageBox.Show("El registro ha sido insertado");
+            MessageBox.Show("El registro ha sido insertado. Lo verá en inventario de inmediato.");
         }
 
         //Botón "Buscar".
