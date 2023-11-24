@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\bin\Debug\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\bin\Debug\Cp_Logica_Negocio.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\bin\Debug\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\bin\Debug\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\bin\Debug\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\bin\Debug\Cp_Entidad.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\obj\Debug\Cp_Logica_Negocio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\obj\Debug\Cp_Logica_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\obj\Debug\Cp_Logica_Negocio.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\obj\Debug\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Logica_Negocio\obj\Debug\Cp_Logica_Negocio.pdb

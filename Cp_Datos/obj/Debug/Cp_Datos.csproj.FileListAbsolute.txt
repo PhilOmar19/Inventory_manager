@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\bin\Debug\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\bin\Debug\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\bin\Debug\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\bin\Debug\Cp_Entidad.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\obj\Debug\Cp_Datos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\obj\Debug\Cp_Datos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\obj\Debug\Cp_Datos.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\obj\Debug\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Datos\obj\Debug\Cp_Datos.pdb

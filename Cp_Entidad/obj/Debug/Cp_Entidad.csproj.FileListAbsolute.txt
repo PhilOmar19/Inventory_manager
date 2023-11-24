@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Entidad\bin\Debug\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Entidad\bin\Debug\Cp_Entidad.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Entidad\obj\Debug\Cp_Entidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Entidad\obj\Debug\Cp_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Entidad\obj\Debug\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\FINAL1\Cp_Entidad\obj\Debug\Cp_Entidad.pdb
