@@ -139,7 +139,7 @@ namespace Cp_Presentacion
         {
             DeleteProducts();
             ShowProducts() ;
-            MessageBox.Show("El registro ha sido eliminado");
+            MessageBox.Show("El registro ha sido eliminado. Si tienes dudas puedes probar a buscarlo en la sección llamada ID");
         }
 
         //Los botones 1, 2 y 3 solo se activan si un número está dentro del textBox6.
